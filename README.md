@@ -8,9 +8,9 @@ Katowice, Poland. I love programming and learning new technologies.</p>
 companion app. Those two projects help me learn new frameworks\
 and technologies as well as develop my both front-end and\
 back-end skills.
-- 🌱 **I’m currently learning:** JavaScript, PHP, CSS, React and React
-Native. After hours I also spend some time on creating Unreal\
-Engine 5 games.
+- 🌱 **I’m currently learning:** JavaScript, React, Tailwind CSS\
+and React Native. After hours I also spend some time on creating\
+Unreal Engine 5 games.
 - 📫 **How to reach me:** email me at **szulzyckifilip@gmail.com** or visit my [LinkedIn](https://linkedin.com/in/fszulzycki).
 
 ## Stats

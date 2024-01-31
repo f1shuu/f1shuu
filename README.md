@@ -4,7 +4,7 @@
 Katowice, Poland. I love programming and learning new technologies.</p>
 
 ## More about me
-- 🔭 **I’m currently working on:** my [portfolio website](https://f1shuu.github.io) and a gym
+- 🔭 **I’m currently working on:** my [portfolio website](https://f1shuu.github.io/portfolio) and a gym
 companion app. Those two projects help me learn new frameworks\
 and technologies as well as develop my both front-end and\
 back-end skills.

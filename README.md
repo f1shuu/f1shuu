@@ -1,5 +1,4 @@
 ## Hello world 👋
-<img align="right" width="380" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"></img>
 <p align="left">I'm Filip, a computer science student at the University of Silesia in <br>
 Katowice, Poland. I love programming and learning new technologies.</p>
 

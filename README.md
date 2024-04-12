@@ -1,7 +1,3 @@
-## Hello world 👋
-<p align="left">I'm Filip, a computer science student at the University of Silesia in <br>
-Katowice, Poland. I love programming and learning new technologies.</p>
-
 **How to reach me:** email me at **szulzyckifilip@gmail.com** or visit my [LinkedIn](https://linkedin.com/in/fszulzycki).
 
 ## Stats
